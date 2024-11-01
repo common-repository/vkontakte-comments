@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: vkcomments.php:310
+#@ vkcomments
+msgid "Options"
+msgstr "Настройки"
+
+#: vkcomments.php:313
+#@ vkcomments
+msgid "Options saved"
+msgstr "Настройки сохранены"
+
+#: vkcomments.php:320
+#@ vkcomments
+msgid "VKontakte API ID"
+msgstr ""
+
+#: vkcomments.php:322
+#@ default
+msgid "api_id"
+msgstr ""
+
+#: vkcomments.php:326
+#@ vkcomments
+msgid "Container width"
+msgstr "Ширина контейнера"
+
+#: vkcomments.php:328
+#@ default
+msgid "width"
+msgstr ""
+
+#: vkcomments.php:81
+#: vkcomments.php:357
+#@ vkcomments
+msgid "Comments count"
+msgstr "Кол-во комментариев"
+
+#: vkcomments.php:382
+#@ vkcomments
+msgid "Allow advanced comments"
+msgstr "Разрешить аттачи"
+
+#: vkcomments.php:387
+#@ vkcomments
+msgid "Allow graffity"
+msgstr "Разрешить граффити"
+
+#: vkcomments.php:392
+#@ vkcomments
+msgid "Allow photos"
+msgstr "Разрешить фото"
+
+#: vkcomments.php:397
+#@ vkcomments
+msgid "Allow video"
+msgstr "Разрешить видео"
+
+#: vkcomments.php:402
+#@ vkcomments
+msgid "Allow audio"
+msgstr "Разрешить аудио"
+
+#: vkcomments.php:407
+#@ vkcomments
+msgid "Allow links"
+msgstr "Разрешить ссылки"
+
+#: vkcomments.php:415
+#@ vkcomments
+msgid "Save Options"
+msgstr "Сохранить настройки"
+
+#: vkcomments.php:172
+#@ vkcomments
+msgid "You like this plugin? You can donate, or give me a job :-) Please, visit <a href=\"http://plugins.yourwordpresscoder.com/vkcomments/\">plugin homepage </a>"
+msgstr "Понравился плагин? Вы можете сделать пожертвование, либо дать мне работу :) Посетите страницу <a href=\\\"http://plugins.yourwordpresscoder.com/vkcomments/\\\">plugin homepage</a>"
+
+#: vkcomments.php:377
+#@ vkcomments
+msgid "Automatically publish my comments in my VKontakte page"
+msgstr "Автоматически публиковать комментарии на странице вКонтакте"
+
+#: vkcomments.php:332
+#@ vkcomments
+msgid "Show comments form"
+msgstr "Показывать форму комментариев"
+
+#: vkcomments.php:354
+#@ vkcomments
+msgid "If you selected the manual mode, you need to insert in your template the following code"
+msgstr "Если вы выбрали ручной режим, вам необходимо вставить в ваш шаблон следующий код"
+
+#: vkcomments.php:355
+#@ vkcomments
+msgid "You can insert comments into the context of each post, using the code"
+msgstr "Вы можете добавлять форму комментариев к любому посту, используя код"
+
+#: vkcomments.php:25
+#@ vkcomments
+msgid "Latest VKComments"
+msgstr "Последние комментарии ВКонтакте"
+
+#: vkcomments.php:116
+#@ vkcomments
+msgid "No comment activity at this time"
+msgstr "Нет свежих комментариев"
+
+#: vkcomments.php:79
+#@ vkcomments
+msgid "Date"
+msgstr "Дата"
+
+#: vkcomments.php:80
+#@ vkcomments
+msgid "Page Link"
+msgstr "Ссылка"
+
+#: vkcomments.php:82
+#@ vkcomments
+msgid "Text"
+msgstr "Текст"
+
+#: vkcomments.php:89
+#@ vkcomments
+msgid "VKComments Options"
+msgstr "Настройки VK Comments"
+
+#: vkcomments.php:105
+#@ vkcomments
+msgid "go"
+msgstr "перейти"
+
